@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mohamedsaeed22
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Android Java
+- 🌱 I’m currently learning Android development Java & kotlin
 - 💞️ I’m looking to collaborate on create an android apps and learning
