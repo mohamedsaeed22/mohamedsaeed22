@@ -2,8 +2,9 @@
 
 # Hi 👋, I'm Mohamed Saeed
 A motivated software engineer, recently graduated from ITI track IOT with a Bachelor’s Degree in Computer Science, specializing in Front-end Development React.js, where I can work in a dynamic professional environment with a growing organization and utilize my creativity and innovative thinking for the benefit of the organization and myself.
-<br/>
-<br/>
+
+---
+
 <img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed22" /> </p>
 
@@ -18,10 +19,15 @@ A motivated software engineer, recently graduated from ITI track IOT with a Bach
 
 - 📄 See my CV <a href="https://drive.google.com/drive/folders/1YpDd3aocgVEhXQTl1xG75aNKF5_1FaOt" target="_blank">Google Drive</a>
 
+
+#
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-saeed-abdulsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-abdulsami" height="30" width="40" /></a>
 </p>
+
+#
 
 ### 🧰 Languages and Tools
 
