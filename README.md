@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://ganeshbehera012.github.io)
 
-<h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
+# Hi 👋, I'm Mohamed Saeed
 A motivated software engineer, recently graduated from ITI track IOT with a Bachelor’s Degree in Computer Science, specializing in Front-end Development React.js, where I can work in a dynamic professional environment with a growing organization and utilize my creativity and innovative thinking for the benefit of the organization and myself.
 <br/>
 <br/>
