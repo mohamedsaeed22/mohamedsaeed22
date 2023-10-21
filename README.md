@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
 <h3 align="center">A motivated software engineer, recently graduated from ITI track IOT with a Bachelor’s Degree in Computer Science, specializing in Front-end Development React.js, where I can work in a dynamic professional environment with a growing organization and utilize my creativity and innovative thinking for the benefit of the organization and myself.</h3>
+<br/>
+<br/>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed22" /> </p>
 
