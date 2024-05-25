@@ -10,7 +10,7 @@ A motivated software engineer, recently graduated from ITI track IOT with a Bach
   
 - 👯 I’m looking to collaborate on creating a Websites and learning.
 
-- 🌱 I’m currently learning **ReactJs - Reudx/Toolkit**.
+- 🌱 I’m currently learning **TS - Nextjs**.
 
 - 💬 Ask me about **Front-End Development Technology**.
 
