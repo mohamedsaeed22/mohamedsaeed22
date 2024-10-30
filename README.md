@@ -16,7 +16,7 @@ A motivated software engineer, recently graduated from ITI track IOT with a Bach
 
 - 📫 How to reach me **mohamed.saeed1006@gmail.com**.
 
-- 📄 See my CV  at canva <a href="https://www.canva.com/design/DAFwAsk9Aug/R5fJkzCTMdU0LQNoFkioIw/edit" target="_blank">Canva</a>
+- 📄 See my CV <a href="https://drive.google.com/drive/folders/1YpDd3aocgVEhXQTl1xG75aNKF5_1FaOt" target="_blank">google drive</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +44,8 @@ A motivated software engineer, recently graduated from ITI track IOT with a Bach
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" />
+
 <br />
 
 #
