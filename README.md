@@ -16,7 +16,7 @@ A motivated software engineer, recently graduated from ITI track IOT with a Bach
 
 - 📫 How to reach me **mohamed.saeed1006@gmail.com**.
 
-- 📄 See my CV <a href="https://drive.google.com/drive/folders/1YpDd3aocgVEhXQTl1xG75aNKF5_1FaOt" target="_blank">google drive</a>
+- 📄 See my Portfolio <a href="https://mohamedsaeed.tech" target="_blank">Mohamed Saeed</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
