@@ -1,57 +1,99 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Hi 👋, I'm Mohamed Saeed
-A motivated software engineer, recently graduated from ITI track IOT with a Bachelor’s Degree in Computer Science, specializing in Front-end Development React.js, where I can work in a dynamic professional environment with a growing organization and utilize my creativity and innovative thinking for the benefit of the organization and myself.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohamed Saeed</h1></summary>
+  </ul>
+</div>
 
----
+<!--- snake -->
 
-<img align="right" alt="Coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed22" /> </p>
 
-  
-- 👯 I’m looking to collaborate on creating a Websites and learning.
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Creative Front-End Developer with a Passion for Building Web Experiences</h2></summary>
+  </ul>
+</div>
+<!--Intro start-->
+- 🧑‍🎓 Graduated from ITI IoT Track, holding a Bachelor's in Computer Science.
 
-- 🌱 I’m currently learning **TS - Nextjs**.
+- 💻 Front-End Developer at **Future of Egypt** .
 
-- 💬 Ask me about **Front-End Development Technology**.
+- 🌱 I’m currently learning **TypeScript and Next.js**.
 
-- 📫 How to reach me **mohamed.saeed1006@gmail.com**.
+- 👯 I’m looking to collaborate on **building websites and learning new tech**.
 
-- 📄 See my Portfolio <a href="https://mohamedsaeed.tech" target="_blank">Mohamed Saeed</a>
+- 💬 Ask me about **Front-End Development with React.js**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-saeed-abdulsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-saeed-abdulsami" height="30" width="40" /></a>
+- 📄 Check out my portfolio: [Mohamedsaeed.tech](https://mohamedsaeed.tech)
+
+- 📫 Reach me: **mohamed.saeed1006@gmail.com**
+
+<!--Intro end-->
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed22&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaeed22&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohamedsaeed22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=mohamedsaeed22&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+<!--- trophy (end) -->
+
+</p>        
+<!--- stats & Trophy (end) -->
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,mysql,git,docker,linux,figma,vscode,java,c&perline=14" />
+  </a>
 </p>
 
-#
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-### 🧰 Languages and Tools
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-saeed-abdulsamie/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+ </p>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Sass" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  />
-<img align="left" alt="MaterialUi" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" />
+<!--profile visit count-->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsaeed22&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsaeed22" />
+</div>
 
-<br />
-
-#
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsaeed22&show_icons=true&locale=en&layout=compact" alt="mohamedsaeed22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed22&show_icons=true&locale=en" alt="mohamedsaeed22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsaeed22&" alt="mohamedsaeed22" /></p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
