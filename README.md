@@ -14,25 +14,27 @@
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Creative Front-End Developer with a Passion for Building Web Experiences</h2></summary>
+    <summary><h2 style="display: inline-block">Frontend Developer & Software Engineer — Crafting Performant Web Experiences</h2></summary>
   </ul>
 </div>
+
 <!--Intro start-->
-- 🧑‍🎓 Graduated from ITI IoT Track, holding a Bachelor's in Computer Science.
+- 🧑‍🎓 CS Graduate from **Menofia University** & **ITI** IoT Track Alumni.
 
-- 💻 Front-End Developer at **Future of Egypt** .
+- 💻 Frontend Developer at **Future of Egypt** with **2+ years** of hands-on experience.
 
-- 🌱 I’m currently learning **TypeScript and Next.js**.
+- 🏗️ Built **[FalParts](https://falparts.sa)** — a multilingual e-commerce platform with Next.js 15, Redux Toolkit & i18next.
 
-- 👯 I’m looking to collaborate on **building websites and learning new tech**.
+- 🧑‍🏫 Former **Frontend Instructor** at ITI, teaching React.js & modern web development.
 
-- 💬 Ask me about **Front-End Development with React.js**.
+- 🚀 Specializing in **React.js, Next.js, TypeScript & Tailwind CSS**.
 
-- 📄 Check out my portfolio: [mosaeed.vercel.app](https://mosaeed.vercel.app)
+- 👯 Open to collaborations on **modern web apps and open-source projects**.
+
+- 🌐 Portfolio: **[mohamedsaeed.dev](https://mohamedsaeed.dev)**
 
 - 📫 Reach me: **mohamed.saeed1006@gmail.com**
 
@@ -54,19 +56,7 @@
 </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=mohamedsaeed22&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-<!--- trophy (end) -->
-
-</p>        
-<!--- stats & Trophy (end) -->
-
+<!--- stats (end) -->  
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -77,7 +67,21 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,materialui,tailwind,sass,nodejs,mongodb,mysql,git,docker,linux,figma,vscode,java,c&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,sass,nodejs,mongodb,mysql,postgres,docker,git,github,linux,vscode,postman,figma&perline=11" />
+  </a>
+</p>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Featured Projects 🚀</h2></summary>
+  </ul>
+</div>
+
+ 
+<p align="center">
+  <a href="https://mohamedsaeed.dev">
+    <img src="https://img.shields.io/badge/View_All_Projects-mohamedsaeed.dev-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -92,7 +96,10 @@
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-saeed-abdulsamie/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
- </p>
+  <a href="mailto:mohamed.saeed1006@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="41" /></a>
+  <a href="https://wa.me/+201018205801" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="41" /></a>
+  <a href="https://mohamedsaeed.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" height="41" /></a>
+</p>
 
 <!--profile visit count-->
 <div align="center">
